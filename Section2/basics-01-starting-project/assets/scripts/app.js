@@ -1,1 +1,1 @@
-alert('This workds!');
+let currentResult = 0;
